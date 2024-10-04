@@ -1,5 +1,5 @@
 # SimpleSpoof
- simplespoof is a really simple spoofer for roblox written in batch, clearing browserdata/cookies for roblox is recommended after running simplespoof
+ simplespoof is a really simple fixer for roblox written in batch, clearing browserdata/cookies for roblox is recommended after running simplespoof as it helps fix features not working
 # What does this do?
  if roblox features dont work after a ban or your roblox dosent launch this lets you make a new account to play roblox!
  # NOTE 
